@@ -1,0 +1,1 @@
+REMOTE_URL="http://192.168.1.3:4444/wd/hub"

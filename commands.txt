@@ -1,0 +1,1 @@
+robot --variablefile ./configs/variable_local.py --outputdir results --output output.xml --report report.html --log log.html tests/

@@ -17,7 +17,7 @@ Wikipedia Arama Testi
     [Tags]    wikipedia    search    smoke
     
     # Tarayıcıyı aç ve Wikipedia ana sayfasına git
-    Open Browser    ${WIKIPEDIA_URL}    ${BROWSER}
+    Open Browser    ${WIKIPEDIA_URL}    ${BROWSER}    remote_url=
     Maximize Browser Window
     Set Selenium Speed    0.2s
     

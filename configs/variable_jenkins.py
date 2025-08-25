@@ -1,0 +1,1 @@
+REMOTE_URL="http://selenium-hub:4444/wd/hub"
